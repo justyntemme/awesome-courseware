@@ -8,6 +8,10 @@ List of programming languages and corresponding lecture videos to them
 
 ## Clang
 
+Jerry Cain Teaching "Programming Paradigms (CS107)" 
+
+https://www.youtube.com/playlist?list=PLD28639E2FFC4B86A
+
 ## C++
 
 # Listed by School
