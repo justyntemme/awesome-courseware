@@ -21,3 +21,8 @@ https://www.youtube.com/watch?v=hE7l6Adoiiw&list=PL6B940F08B9773B9F
 
 Richard Buckland teaching cs2 "Data structures and algorithms"
 https://www.youtube.com/watch?v=RpRRUQFbePU&list=PLE621E25B3BF8B9D1
+
+## MIT
+
+Prof. Eric Grimson, Prof. John Guttag Teaching "MIT 6.00 Introduction to Computer Science and Programming"
+https://www.youtube.com/playlist?list=PL4C4720A6F225E074
