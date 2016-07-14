@@ -13,9 +13,9 @@ Jerry Cain Teaching "Programming Paradigms (CS107)"
 https://www.youtube.com/playlist?list=PLD28639E2FFC4B86A
 
 ## Golang
-Todd McLeod Learn Golang - GDG Silicon Valley DevFest 2015 
+Fresno City College - Google's Go Langage (golang) - Web Programming with Golang
 
-https://www.youtube.com/watch?v=fzHe3gZw8GI&feature=youtu.be
+https://www.youtube.com/playlist?list=PLSak_q1UXfPqOSPQ9Y_1pwQW57g3tRz1m
 
 ## C++
 
