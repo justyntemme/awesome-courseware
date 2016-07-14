@@ -13,7 +13,7 @@ Jerry Cain Teaching "Programming Paradigms (CS107)"
 https://www.youtube.com/playlist?list=PLD28639E2FFC4B86A
 
 ## Golang
-
+Todd McLeod Learn Golang - GDG Silicon Valley DevFest 2015 
 https://www.youtube.com/watch?v=fzHe3gZw8GI&feature=youtu.be
 
 ## C++
