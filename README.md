@@ -36,3 +36,9 @@ https://github.com/ardanlabs/gotraining
 
 ## C++
 
+# Non Language Lectures
+
+http://www.cyberliving.uk/lectures/
+
+https://www.youtube.com/watch?v=ecIWPzGEbFc&list=PLcr1-V2ySv4Tf_xSLj2MbQZr78fUVQAua
+
