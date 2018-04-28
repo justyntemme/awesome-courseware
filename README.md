@@ -5,6 +5,9 @@ List of programming languages and corresponding lecture videos to them
 # Listed By Language
 
 ## Python
+Harrison Kinsley's youtube channel
+
+https://www.youtube.com/user/sentdex
 
 ## Clang
 
@@ -41,4 +44,11 @@ https://github.com/ardanlabs/gotraining
 http://www.cyberliving.uk/lectures/
 
 https://www.youtube.com/watch?v=ecIWPzGEbFc&list=PLcr1-V2ySv4Tf_xSLj2MbQZr78fUVQAua
+
+## Artificial Intelligence
+
+Siraj Raval's youtube channel
+
+https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
+
 
