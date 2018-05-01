@@ -37,4 +37,4 @@ List of programming languages and corresponding lecture videos to them
 
 
 # Kubernetes Blog Posts
-https://akomljen.com/tag/kubernetes/
+- https://akomljen.com/tag/kubernetes/
