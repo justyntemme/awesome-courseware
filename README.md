@@ -36,3 +36,5 @@ List of programming languages and corresponding lecture videos to them
  - [Siraj Raval's youtube channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 
 
+#Kubernetes Blog Posts
+https://akomljen.com/tag/kubernetes/
