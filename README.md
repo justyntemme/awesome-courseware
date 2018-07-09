@@ -38,3 +38,7 @@ List of programming languages and corresponding lecture videos to them
 
 # Kubernetes Blog Posts
 - https://akomljen.com/tag/kubernetes/
+
+## Web Development
+
+ - [Microsoft Virtual Academy - Web Development](https://mva.microsoft.com/training-topics/web-development)
