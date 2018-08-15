@@ -6,6 +6,7 @@ List of programming languages and corresponding lecture videos to them
 
 ## Python
  - [Harrison Kinsley's youtube channel](https://www.youtube.com/user/sentdex)
+ - [The new Boston's youtube channel](https://www.youtube.com/user/thenewboston)
 
 ## Clang
 
