@@ -7,6 +7,7 @@ List of programming languages and corresponding lecture videos to them
 ## Python
  - [Harrison Kinsley's youtube channel](https://www.youtube.com/user/sentdex)
  - [The new Boston's youtube channel](https://www.youtube.com/user/thenewboston)
+ - [Learn Python - Full Course for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw&vl=en)
 
 ## Clang
 
@@ -25,6 +26,7 @@ List of programming languages and corresponding lecture videos to them
  - [Ardan Labs git-based golang training](https://github.com/ardanlabs/gotraining)
 
 ## C++
+- [C++ Tutorial for Beginners - Full Course - freeCodeCamp](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 
 # Non Language Specific Lectures
 
