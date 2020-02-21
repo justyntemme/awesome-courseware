@@ -21,6 +21,7 @@ List of programming languages and corresponding lecture videos to them
 
 ## Golang
  - [Fresno City College - Google's Go Langage (golang) - Web Programming with Golang](https://www.youtube.com/playlist?list=PLSak_q1UXfPqOSPQ9Y_1pwQW57g3tRz1m)
+ - Algorithms with go (free course) (https://algorithmswithgo.com)
 
 ### Non Video Golang courses
  - [Ardan Labs git-based golang training](https://github.com/ardanlabs/gotraining)
