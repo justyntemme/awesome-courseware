@@ -38,7 +38,13 @@ List of programming languages and corresponding lecture videos to them
 ## Artificial Intelligence
 
  - [Siraj Raval's youtube channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+## Continuous Delivery
+ - [Martin Fowler @ ThoughtWorks](https://www.youtube.com/watch?v=aoMfbgF2D_4)
 
+## Microservices
+ - [Martin Fowler @ ThoughtWorks](https://www.youtube.com/watch?v=2yko4TbC8cI)
+## Branching Strategies
+- [Mike Jones Continuous Integration Branching Strategies](https://www.youtube.com/watch?v=4ihtY4Uewnc)
 
 ## Kubernetes Blog Posts
 - https://akomljen.com/tag/kubernetes/
